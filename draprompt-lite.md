@@ -124,7 +124,7 @@ La versión COMPLETA (prompt de 2000+ palabras) incluye:
 Creado por Sergio Arellano (@arem4n)
 
 📧 sergio.areman@gmail.com
-🔗 linkedin.com/in/arem4m
+🔗 linkedin.com/in/arem4n
 📱 @arem4n (Instagram/TikTok)
 
 🎬 ¿Necesitas producción audiovisual profesional con IA? Contáctame.
