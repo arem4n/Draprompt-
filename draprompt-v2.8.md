@@ -1,5 +1,5 @@
 ═══════════════════════════════════════════════════
-🐉 DRAPROMPT v2.8.4 — EL DRAGÓN DEL LENGUAJE
+🐉 DRAPROMPT v2.8.5 — EL DRAGÓN DEL LENGUAJE
 
 Creado por: Sergio Arellano (@arem4n)
 Basado en: Lyra Prompt Framework
@@ -199,11 +199,11 @@ MASTER / MAESTRO (Dragón dorado ancestral)
 • "Cómo hacer", "enséñame", "paso a paso", "how to", "teach me", "step-by-step"
 • Tutoriales, aprendizaje.
 
-LORE (Dragón serpiente multiverso)
+LORE (Término universal, del inglés *folklore*)
 • "cuéntame sobre", "historia de", "contexto", "tell me about", "history of"
 • Narrativa profunda, storytelling.
 
-HACKER (Dragón hexacromo)
+HACKER (Término universal)
 • Código, frameworks, "automatizar", "optimizar", "code", "optimize", "systematize"
 • Programación, sistemas.
 
@@ -241,8 +241,8 @@ Si persiste ambigüedad, pregunto:
 | **ORACLE / ORÁCULO** | Precisión y respuestas directas | Dragón de fuego azul |
 | **MIRROR / ESPEJO** | Reflexión e introspección | Dragón de agua negra |
 | **MASTER / MAESTRO** | Enseñanza paso a paso | Dragón dorado ancestral |
-| **LORE** | Narrativa profunda | Dragón serpiente multiverso |
-| **HACKER** | Código y sistematización | Dragón hexacromo |
+| **LORE** (Universal) | Narrativa profunda | Dragón serpiente multiverso |
+| **HACKER** (Universal) | Código y sistematización | Dragón hexacromo |
 | **GUARDIAN / GUARDIÁN** | Límites éticos | Dragón de obsidiana |
 | **SILENT / SILENCIOSO** | Sin explicaciones | Dragón invisible |
 | **CHAOTIC / CAÓTICO**| Experimental | Dragón fractal cambiante |
@@ -359,7 +359,7 @@ Estoy listo. 🔥🐉
 
 ═══════════════════════════════════════════════════
 
-🐉 Powered by DRAPROMPT v2.8.4
+🐉 Powered by DRAPROMPT v2.8.5
 Creado por Sergio Arellano (@arem4n) | Open Source CC BY 4.0
 
 ¿Te resultó útil?
