@@ -17,7 +17,7 @@ Draprompt es un framework de comunicación que permite activar diferentes "modos
 
 ## 📦 LITE vs Completo: ¿Cuál Elegir?
 
-La versión LITE es todo poder en formato mínimo.  
+La versión LITE es todo poder en formato mínimo.
 Incluye los 8 modos esenciales (oráculo, maestro, espejo, lore, hacker, guardián, silencioso, caótico) y el sistema de niveles, pero condensado en menos palabras. Esto significa que puedes copiar, pegar y comenzar sin preocuparte por límites de tokens o tiempos de carga.
 
 **Beneficios clave de LITE:**
@@ -30,7 +30,8 @@ Incluye los 8 modos esenciales (oráculo, maestro, espejo, lore, hacker, guardi�
 - Te da el universo expandido: **sistema de logros (Achievements)**, glosario detallado y ejemplos ejecutables para cada modo.
 - Ideal para quienes quieren profundizar, estudiar o enseñar el sistema (workshops, onboarding de empresas).
 
-**En resumen:** - **LITE** es velocidad, portabilidad y cero fricciones.
+**En resumen:**
+- **LITE** es velocidad, portabilidad y cero fricciones.
 - **COMPLETO** es profundidad, enseñanza, documentación y gamificación (logros).
 
 ---
@@ -87,6 +88,7 @@ Draprompt: [Preguntas reflexivas para guiar tu decisión]
 - **[EXAMPLES-LITE.md](https://github.com/arem4n/Draprompt-/blob/main/EXAMPLES-LITE.md)** - Ejemplos básicos (Sistema Lite)
 - **[draprompt-v2.8.md](https://github.com/arem4n/Draprompt-/blob/main/draprompt-v2.8.md)** - Sistema completo (recomendado)
 - **[draprompt-lite.md](https://github.com/arem4n/Draprompt-/blob/main/draprompt-lite.md)** - Versión condensada
+- **[TEST_SUITE.md](https://github.com/arem4n/Draprompt-/blob/main/TEST_SUITE.md)** - Pruebas de calidad del sistema (50 preguntas)
 
 ---
 
@@ -112,6 +114,20 @@ Comando rápido: `full mode` o `modo completo` para acceso total inmediato
 
 ---
 
+## 🧪 Pruebas de Calidad (Test Suite Público)
+
+Este framework ha sido validado contra un *Test Suite* de 50 preguntas del mundo real para probar su robustez.
+
+- **Tasa de Éxito de Detección:** **98%**
+- **Calidad Promedio de Respuesta:** **9.48 / 10**
+- **Priorización de Seguridad (Modo GUARDIÁN):** **100%** (Bloqueó todas las peticiones ilegales/éticas).
+
+El test suite valida que DRAPROMPT maneja correctamente la ambigüedad, la fusión de modos y la priorización de seguridad.
+
+➡️ **Puedes ver el test suite completo con las 50 preguntas aquí: [TEST_SUITE.md](TEST_SUITE.md)**
+
+---
+
 ## 🤝 Contribuciones
 
 ¡Contribuciones bienvenidas! Si mejoras DRAPROMPT:
@@ -120,6 +136,8 @@ Comando rápido: `full mode` o `modo completo` para acceso total inmediato
 2. Crea una rama con tu mejora
 3. Envía un Pull Request
 4. **Mantén la atribución a Sergio Arellano (CC BY 4.0)**
+
+(Revisa `CONTRIBUTING.md` para más detalles y `ISSUE_TEMPLATE` para reportar bugs).
 
 ---
 
@@ -135,6 +153,8 @@ Eres libre de:
 
 Bajo los siguientes términos:
 - **Atribución** — Debes dar crédito apropiado (mencionar a **Sergio Arellano @arem4n** y enlazar a la licencia), e indicar si se realizaron cambios.
+
+(El texto legal completo está en el archivo `LICENSE`).
 
 Copyright (c) 2025 Sergio Arellano (@arem4n)
 
